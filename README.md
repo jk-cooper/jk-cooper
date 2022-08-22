@@ -17,21 +17,13 @@ A computer programming student at Austin Community College.  Not only do I have 
   📫 You can reach me via LinkedIn or at my personal e-mail address joekcooper@gmail.com.
 </p>
 
-</p>
-### Education
-
-<p align='center'>
-</p>
+## Education
 
 *   Associate of Applied Science: Computer Programming - Graduating December 2022
 *   Bachelor of Arts: Business and Organizational Communication - August 2002
 *   **Awards and Honors:** Occupational Skills Award * Austin Community College RiverHacks Competition (1st Place 2022)
 
-</p>
-### Skills
-
-<p align='center'>
-</p>
+## Skills
 
 *   **Tools:** Elipse * NetBeans * IntelliJ * PyCharm * GitHub * Anaconda * Jupyter Notebook
 *   **Languages:** Python * Java * C++ * SQL * Javascript * HTML5 * CSS
