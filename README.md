@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Joe
 
-A computer programming student at Austin Community College.  Not only do I have years of experience in client-facing roles such as account management and marketing but I have also operated my own small business and am now pursuing computer science as a third career.  My favorite languages are Python and Java but I have developed an understanding of C++ (including data structures), SQL, Javascript, HTML, CSS.  I also have experience managing small-scale databases in Access and have an interest in larger database development.
+a lifelong student of statistics, computer programming and data analytics.  Not only do I have years of experience in client-facing roles such as account management and marketing but I have also operated my own small business and am now pursuing computer science as a third career.  My favorite languages are Python and Java but I have developed an understanding of C++ (including data structures), SQL, Javascript, HTML, CSS and R.  I also have experience managing small-scale databases in Access and have an interest in larger database development.  Most recently I finished contract work for GOJO Industries developing a reporting package in PowerBI to better understand the details behind a $20 million cost center.
 
 <p align='center'>
   <a href="https://github-readme-stats.vercel.app/api?username=jk-cooper&show_icons=true&count_private=true"><img height=150
@@ -27,6 +27,7 @@ A computer programming student at Austin Community College.  Not only do I have 
 
 *   **Tools:** Elipse * NetBeans * IntelliJ * PyCharm * GitHub * Anaconda * Jupyter Notebook
 *   **Languages:** Python * Java * C++ * SQL * Javascript * HTML5 * CSS
+*   **Certifications:** Google Data Analytics, Sep 2023, Intro to Machine Learning (Kaggle), Sep 2023
 
 💞️ I’m looking to collaborate on any open source projects that I could add to my repo and/or gain experience helping companies or developers create solutions.
 
